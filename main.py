@@ -5,7 +5,6 @@ import os
 from discord.ext import tasks
 from discord.ext.commands import Bot
 from discord.ext.commands import AutoShardedBot
-import time
 
 y = ["1", "2" ,"3", "4", "5", "6"]
 
